@@ -1,0 +1,8 @@
+parameters:
+    level: 5
+    paths:
+        - app
+        - tests
+    ignoreErrors:
+        - '/Parameter #2 \$array of function array_map expects array, string given/'
+        - "/Offset 'results' does not exist on string/"
