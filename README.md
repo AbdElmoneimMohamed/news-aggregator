@@ -34,8 +34,8 @@ This project is the backend implementation of a **News Aggregator** website that
 2. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/AbdElmoneimMohamed/acme-widget-co.git
-   cd acme-widget-co
+   git clone https://github.com/AbdElmoneimMohamed/news-aggregator.git
+   cd news-aggregator
    make local-setup
 
 ## Usage
